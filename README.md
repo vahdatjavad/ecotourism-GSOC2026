@@ -1,4 +1,4 @@
- cat > README.md <<'EOF'
+
 # Ecotourism GSoC 2026 Shiny App
 
 This repository contains my submission work for the **GSoC 2026 Ecotourism project**.
