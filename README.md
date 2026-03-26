@@ -1,5 +1,5 @@
 
-# Ecotourism GSoC 2026 Shiny App
+# Ecotourism GSoC 2026 Shiny App [Link to App](https://nvix0x-javad-vahdat.shinyapps.io/ecotourism-gsoc2026/)
 
 This repository contains my submission work for the **GSoC 2026 Ecotourism project**.
 
